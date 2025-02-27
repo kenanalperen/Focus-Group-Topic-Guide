@@ -8,11 +8,9 @@ We conducted three focus group sessions with participants representing different
 - **UAV (Unmanned Aerial Vehicle) Operators**  
 - **ROV (Remotely Operated Vehicle) Operators**  
 
-Each session focused exclusively on topics relevant to the respective operator type. The discussions were divided into two parts:  
+Each session focused exclusively on topics relevant to the respective operator type. The first author designed and facilitated the focus groups To maintain a balanced discussion, the facilitator monitored the flow, offering polite interventions when necessary to ensure equal participation and that all voices were heard. This approach created an inclusive and productive environment where each participant had the opportunity to contribute meaningfully to the conversation. The discussions were divided into two parts:  
 1. **<b>Human-Robot Interaction</b>** – Examining operator roles, interface needs, and preferences within the control room.  
 2. **<b>Remote Environment</b>** – Addressing tasks and environmental challenges.  
-
-The first author designed and facilitated the focus groups To maintain a balanced discussion, the facilitator monitored the flow, offering polite interventions when necessary to ensure equal participation and that all voices were heard. This approach created an inclusive and productive environment where each participant had the opportunity to contribute meaningfully to the conversation.
 
 For each topic, a representative figure was provided alongside presentation slides.
 
