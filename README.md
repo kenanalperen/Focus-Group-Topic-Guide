@@ -121,4 +121,5 @@ Participants were introduced to different interface options, with visuals and ex
 ---
 
 ## <h2>How to Contribute</h2>  
-If you have insights or feedback on these topics, feel free to open an issue or contribute to this repository.  
+If you have insights or feedback on these topics, feel free to send an e-mail, open an issue or contribute to this repository.  
+Alperen.Kenan@uwe.ac.uk
